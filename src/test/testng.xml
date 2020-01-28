@@ -1,0 +1,29 @@
+<suite name = "suite" parallel="tests" thread-count="3">
+    <test name="Virtual Device 1">
+        <parameter name="deviceName" value="emulator-5554" />
+        <parameter name="platformName" value="Android" />
+        <parameter name="automationName" value="UiAutomator2" />
+        <parameter name="appiumUrl" value="http://localhost:4729/wd/hub" />
+        <classes>
+            <class name="CucumberRunner" />
+        </classes>
+    </test>
+<!--    <test name="Real Device">-->
+<!--        <parameter name="deviceName" value="ca65d73d" />-->
+<!--        <parameter name="platformName" value="Android" />-->
+<!--        <parameter name="automationName" value="UiAutomator2" />-->
+<!--        <parameter name="appiumUrl" value="http://localhost:4726/wd/hub" />-->
+<!--        <classes>-->
+<!--            <class name="CucumberRunner" />-->
+<!--        </classes>-->
+<!--    </test>-->
+    <test name="Virtual Device 2">
+        <parameter name="deviceName" value="emulator-5556" />
+        <parameter name="platformName" value="Android" />
+        <parameter name="automationName" value="UiAutomator2" />
+        <parameter name="appiumUrl" value="http://localhost:4732/wd/hub" />
+        <classes>
+            <class name="CucumberRunner" />
+        </classes>
+    </test>
+</suite>
