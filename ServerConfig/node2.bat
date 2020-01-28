@@ -1,0 +1,1 @@
+appium -a 127.0.0.1 -p 4740 -bp 8081 --session-override &

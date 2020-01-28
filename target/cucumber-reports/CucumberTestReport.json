@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4000000,
+              "duration": 1133062500,
               "status": "passed"
             },
             "line": 4,
@@ -24,10 +24,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-28T15:45:54.802Z",
+        "start_timestamp": "2020-01-28T18:41:00.020Z",
         "before": [
           {
             "result": {
+              "duration": 4997800,
               "status": "passed"
             },
             "match": {
@@ -42,7 +43,7 @@
         "after": [
           {
             "result": {
-              "duration": 923000000,
+              "duration": 2381953900,
               "status": "passed"
             },
             "match": {
@@ -55,7 +56,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2680000000,
+              "duration": 6795273300,
               "status": "passed"
             },
             "line": 7,
@@ -87,7 +88,7 @@
           },
           {
             "result": {
-              "duration": 581000000,
+              "duration": 763007300,
               "status": "passed"
             },
             "line": 11,
@@ -99,7 +100,7 @@
           },
           {
             "result": {
-              "duration": 519000000,
+              "duration": 884497500,
               "status": "passed"
             },
             "line": 12,
@@ -126,7 +127,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2000000,
+              "duration": 1998900,
               "status": "passed"
             },
             "line": 4,
@@ -139,7 +140,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-28T15:46:10.184Z",
+        "start_timestamp": "2020-01-28T18:41:48.182Z",
         "before": [
           {
             "result": {
@@ -157,7 +158,7 @@
         "after": [
           {
             "result": {
-              "duration": 824000000,
+              "duration": 2852021000,
               "status": "passed"
             },
             "match": {
@@ -170,7 +171,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3006000000,
+              "duration": 4783389200,
               "status": "passed"
             },
             "line": 21,
@@ -202,7 +203,7 @@
           },
           {
             "result": {
-              "duration": 574000000,
+              "duration": 1773864500,
               "status": "passed"
             },
             "line": 25,
@@ -214,7 +215,7 @@
           },
           {
             "result": {
-              "duration": 568000000,
+              "duration": 1479491700,
               "status": "passed"
             },
             "line": 26,
@@ -241,7 +242,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3000000,
+              "duration": 1999200,
               "status": "passed"
             },
             "line": 4,
@@ -254,7 +255,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-28T15:46:25.037Z",
+        "start_timestamp": "2020-01-28T18:42:34.826Z",
         "before": [
           {
             "result": {
@@ -272,7 +273,7 @@
         "after": [
           {
             "result": {
-              "duration": 1404000000,
+              "duration": 2556310100,
               "status": "passed"
             },
             "match": {
@@ -285,7 +286,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3027000000,
+              "duration": 5439323500,
               "status": "passed"
             },
             "line": 21,
@@ -317,7 +318,7 @@
           },
           {
             "result": {
-              "duration": 547000000,
+              "duration": 778903200,
               "status": "passed"
             },
             "line": 25,
@@ -329,7 +330,7 @@
           },
           {
             "result": {
-              "duration": 541000000,
+              "duration": 752649200,
               "status": "passed"
             },
             "line": 26,
@@ -356,7 +357,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1000000,
+              "duration": 1003300,
               "status": "passed"
             },
             "line": 4,
@@ -369,7 +370,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-28T15:46:41.955Z",
+        "start_timestamp": "2020-01-28T18:43:06.335Z",
         "before": [
           {
             "result": {
@@ -387,7 +388,7 @@
         "after": [
           {
             "result": {
-              "duration": 1403000000,
+              "duration": 1233289700,
               "status": "passed"
             },
             "match": {
@@ -400,7 +401,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2848000000,
+              "duration": 4870469600,
               "status": "passed"
             },
             "line": 21,
@@ -432,7 +433,7 @@
           },
           {
             "result": {
-              "duration": 547000000,
+              "duration": 747880100,
               "status": "passed"
             },
             "line": 25,
@@ -444,7 +445,7 @@
           },
           {
             "result": {
-              "duration": 524000000,
+              "duration": 898351200,
               "status": "passed"
             },
             "line": 26,
@@ -471,6 +472,7 @@
         "steps": [
           {
             "result": {
+              "duration": 2001900,
               "status": "passed"
             },
             "line": 4,
@@ -483,7 +485,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-28T15:46:59.603Z",
+        "start_timestamp": "2020-01-28T18:43:33.144Z",
         "before": [
           {
             "result": {
@@ -501,7 +503,7 @@
         "after": [
           {
             "result": {
-              "duration": 3012000000,
+              "duration": 1124263900,
               "status": "passed"
             },
             "match": {
@@ -514,7 +516,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5278000000,
+              "duration": 4848227200,
               "status": "passed"
             },
             "line": 34,
@@ -546,7 +548,7 @@
           },
           {
             "result": {
-              "duration": 1124000000,
+              "duration": 880923900,
               "status": "passed"
             },
             "line": 38,
@@ -558,9 +560,8 @@
           },
           {
             "result": {
-              "error_message": "org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy. Proxy error: Could not proxy command to remote server. Original error: Error: socket hang up\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027C20168\u0027, ip: \u0027192.168.100.10\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_201\u0027\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: C:\\Users\\Ahernandez\\Documen..., appPackage: com.eliasnogueira.trianguloapp, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\\Users\\Ahernandez\\Documen..., automationName: UiAutomator2, deviceName: emulator-5556, platformName: android, udid: emulator-5556}, deviceApiLevel: 28, deviceManufacturer: Google, deviceModel: AOSP on IA Emulator, deviceName: emulator-5556, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5556, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 63, takesScreenshot: true, udid: emulator-5556, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 9cbec427-c10b-48c5-b3fc-93620db37a82\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)\r\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)\r\n\tat io.appium.java_client.DefaultGenericMobileElement.execute(DefaultGenericMobileElement.java:45)\r\n\tat io.appium.java_client.MobileElement.execute(MobileElement.java:1)\r\n\tat io.appium.java_client.android.AndroidElement.execute(AndroidElement.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:166)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat io.appium.java_client.pagefactory.ElementInterceptor.getObject(ElementInterceptor.java:40)\r\n\tat io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:60)\r\n\tat io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.getText(\u003cgenerated\u003e)\r\n\tat com.trianguloApp.pages.HomePage.getTextResultado(HomePage.java:68)\r\n\tat com.trianguloApp.StepDefinition.TrianguloAppStepDefinition.elMensajeEs(TrianguloAppStepDefinition.java:42)\r\n\tat ✽.El mensaje es \"O triângulo é Escaleno\"(classpath:features/TrianguloApp/TrianguloApp.feature:39)\r\n",
-              "duration": 228000000,
-              "status": "failed"
+              "duration": 1285747100,
+              "status": "passed"
             },
             "line": 39,
             "name": "El mensaje es \"O triângulo é Escaleno\"",
@@ -586,7 +587,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1000000,
+              "duration": 792400,
               "status": "passed"
             },
             "line": 4,
@@ -599,10 +600,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-28T15:47:25.318Z",
+        "start_timestamp": "2020-01-28T18:44:00.574Z",
         "before": [
           {
             "result": {
+              "duration": 203300,
               "status": "passed"
             },
             "match": {
@@ -617,7 +619,7 @@
         "after": [
           {
             "result": {
-              "duration": 538000000,
+              "duration": 705877100,
               "status": "passed"
             },
             "match": {
@@ -630,7 +632,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3580000000,
+              "duration": 3973672600,
               "status": "passed"
             },
             "line": 34,
@@ -662,7 +664,7 @@
           },
           {
             "result": {
-              "duration": 542000000,
+              "duration": 2310672100,
               "status": "passed"
             },
             "line": 38,
@@ -674,7 +676,7 @@
           },
           {
             "result": {
-              "duration": 545000000,
+              "duration": 1042867100,
               "status": "passed"
             },
             "line": 39,
@@ -698,6 +700,9 @@
     "id": "clasificacion-del-tipo-de-triangulo-por-longitud-de-los-lados",
     "keyword": "Feature",
     "uri": "classpath:features/TrianguloApp/TrianguloApp.feature",
+    "tags": []
+  }
+]App.feature",
     "tags": []
   }
 ]
