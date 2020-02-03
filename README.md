@@ -32,6 +32,7 @@ Ejecuto appium con el siguiente comando definiendo el puerto que configure en el
     appium --address 127.0.0.1 --port 4729 -bp 8189 --session-override &
 
 ####2.Ejecucion proyecto
-El proyecto esta configurado para que se ejecute con un comando de gradle
+* El proyecto se puede ejecutar corriendo el testng.xml en el ide.
+* Usando el comando: gradlew runTests
 
 
